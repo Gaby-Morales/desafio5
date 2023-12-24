@@ -41,3 +41,8 @@ body {
 #Mis-trabajos {
   background-color: #5E615C;
 }
+
+.navbar,
+footer {
+  background-color: #5E615C; 
+}
